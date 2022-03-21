@@ -1,4 +1,4 @@
-## Linux-SU
+# Linux-SU
 
 ![alt text](https://raw.githubusercontent.com/STRTSNM/linux-quick-setup/main/ss.png)
 
