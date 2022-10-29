@@ -2,6 +2,6 @@
 
 ![alt text](https://raw.githubusercontent.com/STRTSNM/linux-quick-setup/main/ss.png)
 
-This script will quickly set up your linux machine for ease of use.
+This script will quickly set up your linux machine to make it visually pleasing.
 
-(The wallpapaer is not mine.)
+(I don't own the wallpaper.)
